@@ -1,0 +1,22 @@
+{
+    "name": "supadu/supapress",
+    "description": "Quickly and easily connect your book metadata (ONIX) to your WordPress site.",
+    "type": "wordpress-plugin",
+    "version": "2.24.8",
+    "authors": [
+        {
+            "name": "Supadu"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "archive": {
+        "exclude": [
+            "/source",
+            "package.json",
+            "package-lock.json",
+            "gulpfile.js"
+        ]
+    }
+}

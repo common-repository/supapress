@@ -1,0 +1,895 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Supafolio\n"
+"POT-Creation-Date: 2021-01-26 15:11+0000\n"
+"PO-Revision-Date: 2021-01-26 15:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n==3 ? "
+"3 : n==6 ? 4 : 5);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: supapress.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/includes/widget-list-table.php:13
+#: admin/views/add-edit-partials/elements.php:281
+#: admin/views/add-edit-partials/elements.php:531
+msgid "Title"
+msgstr "Teitl"
+
+#: admin/includes/widget-list-table.php:14
+#: admin/views/add-edit-partials/elements.php:58 locale.php:24
+msgid "Type"
+msgstr "Math"
+
+#: admin/includes/widget-list-table.php:15
+msgid "Shortcode"
+msgstr "Cod byr"
+
+#: admin/includes/widget-list-table.php:16
+msgid "Author"
+msgstr "Awdur"
+
+#: admin/includes/widget-list-table.php:17
+msgid "Date"
+msgstr "Dyddiad"
+
+#: admin/includes/widget-list-table.php:103
+msgid "Edit"
+msgstr "Addasu"
+
+#: admin/includes/widget-list-table.php:109
+msgid "Duplicate"
+msgstr "Dyblygu"
+
+#: admin/includes/widget-list-table.php:110
+msgid "Delete"
+msgstr "Dileu"
+
+#: admin/includes/widget-list-table.php:204
+msgid "Search"
+msgstr "Chwilio"
+
+#: admin/includes/widget-list-table.php:233
+#: admin/views/add-edit-partials/step1.php:23
+msgid "ISBN Lookup"
+msgstr "Chwilio ISBN"
+
+#: admin/includes/widget-list-table.php:236
+#: admin/views/add-edit-partials/step1.php:32
+msgid "Search Results"
+msgstr "Canlyniadau chwilio"
+
+#: admin/includes/widget-list-table.php:239
+#: admin/views/add-edit-partials/step1.php:41 admin/views/settings.php:200
+msgid "Product Details"
+msgstr "Manylion eitem"
+
+#: admin/includes/widget-list-table.php:242
+msgid "Apply"
+msgstr "Ymgeisiwch"
+
+#: admin/views/add-edit-partials/arrangement.php:10
+msgid "Select how you want to see your results:"
+msgstr "Dewiswch sut rydych chi am weld eich canlyniadau:"
+
+#: admin/views/add-edit-partials/arrangement.php:13
+#: admin/views/add-edit-partials/content.php:8
+msgid "Select how you want to see your ISBN(s):"
+msgstr "Dewiswch sut rydych chi am weld eich ISBN (au):"
+
+#: admin/views/add-edit-partials/arrangement.php:26
+msgid "Grid"
+msgstr "Grid"
+
+#: admin/views/add-edit-partials/arrangement.php:38
+msgid "List"
+msgstr "Rhestr"
+
+#: admin/views/add-edit-partials/arrangement.php:50
+msgid "Carousel"
+msgstr "Carousel"
+
+#: admin/views/add-edit-partials/arrangement.php:63
+msgid "Custom"
+msgstr "Arbennig"
+
+#: admin/views/add-edit-partials/arrangement.php:70
+msgid "How many ISBN(s) per row:"
+msgstr "Faint o ISBN (au) sydd ym mhob rhes:"
+
+#: admin/views/add-edit-partials/arrangement.php:85
+msgid "Display cover on the left or the right:"
+msgstr "Clawr arddangos ar y chwith neu’r dde:"
+
+#: admin/views/add-edit-partials/arrangement.php:97
+msgid "How to order your ISBN(s):"
+msgstr "Sut i archebu eich ISBN (au):"
+
+#: admin/views/add-edit-partials/arrangement.php:99
+msgid "As entered / collection order"
+msgstr "Fel y cofnodwyd / archeb gasglu"
+
+#: admin/views/add-edit-partials/arrangement.php:102
+#: admin/views/add-edit-partials/elements.php:87 includes/book.php:36
+msgid "Newest to Oldest"
+msgstr "Newydd i’r hynaf"
+
+#: admin/views/add-edit-partials/arrangement.php:105
+#: admin/views/add-edit-partials/elements.php:90 includes/book.php:37
+msgid "Oldest to Newest"
+msgstr "Hynaf i’r newydd"
+
+#: admin/views/add-edit-partials/arrangement.php:108
+#: admin/views/add-edit-partials/elements.php:93 includes/book.php:38
+msgid "Title - A to Z"
+msgstr "Teitl - A i Z"
+
+#: admin/views/add-edit-partials/arrangement.php:111
+#: admin/views/add-edit-partials/elements.php:96 includes/book.php:39
+msgid "Title - Z to A"
+msgstr "Teitl - Z i A"
+
+#: admin/views/add-edit-partials/arrangement.php:114
+#: admin/views/add-edit-partials/elements.php:99 includes/book.php:40
+msgid "Price - Low to High"
+msgstr "Pris - Isel i Uchel"
+
+#: admin/views/add-edit-partials/arrangement.php:117
+#: admin/views/add-edit-partials/elements.php:102 includes/book.php:41
+msgid "Price - High to Low"
+msgstr "Pris - Uchel i Isel"
+
+#: admin/views/add-edit-partials/arrangement.php:122
+msgid "Navigation dots:"
+msgstr "Dotiau llywio:"
+
+#: admin/views/add-edit-partials/arrangement.php:134
+msgid "Navigation arrow:"
+msgstr "Saeth llywio:"
+
+#: admin/views/add-edit-partials/arrangement.php:147
+msgid "Left arrow:"
+msgstr "Saeth chwith:"
+
+#: admin/views/add-edit-partials/arrangement.php:159
+msgid "Right arrow:"
+msgstr "Saeth dde:"
+
+#: admin/views/add-edit-partials/arrangement.php:171
+msgid "Number of books per row:"
+msgstr "Nifer o lyfrau ym mhob res:"
+
+#: admin/views/add-edit-partials/arrangement.php:200
+msgid "Number of books to scroll by:"
+msgstr "Nifer o lyfrau y gellir eu sgrolio:"
+
+#: admin/views/add-edit-partials/arrangement.php:229
+msgid "Scroll speed (ms):"
+msgstr "Cyflymder sgrolio (ms)"
+
+#: admin/views/add-edit-partials/arrangement.php:234
+msgid "Infinite scroll:"
+msgstr "Sgrolio di-ddiwedd:"
+
+#: admin/views/add-edit-partials/arrangement.php:246
+msgid "Auto play:"
+msgstr "Chwarae yn awtomatig:"
+
+#: admin/views/add-edit-partials/arrangement.php:259
+msgid "Auto play scroll delay (ms):"
+msgstr "Chwarae yn awtomatig oedi sgrolio (ms):"
+
+#: admin/views/add-edit-partials/arrangement.php:266
+msgid "Lazy load images:"
+msgstr "Delweddau lazy load:"
+
+#: admin/views/add-edit-partials/arrangement.php:280
+msgid "Lazy Load Placeholder:"
+msgstr "Deiliad lazy load:"
+
+#: admin/views/add-edit-partials/arrangement.php:297
+msgid "Custom template:"
+msgstr "Templed y gellir addasu:"
+
+#: admin/views/add-edit-partials/arrangement.php:308
+msgid "Default"
+msgstr "Yn ddiofyn"
+
+#: admin/views/add-edit-partials/arrangement.php:310
+msgid "Please select"
+msgstr "Plis dewisiwch"
+
+#: admin/views/add-edit-partials/content.php:12
+msgid "Select where your ISBN(s) come from:"
+msgstr "Dewisiwch lle daw eich ISBN (au)"
+
+#: admin/views/add-edit-partials/content.php:16
+msgid "Manually enter single ISBN(s)"
+msgstr "Mewnbynnwch ISBN unigol"
+
+#: admin/views/add-edit-partials/content.php:19
+msgid "Manually enter bulk ISBN(s)"
+msgstr "Mewnbynnwch nifer o ISBN (au)"
+
+#: admin/views/add-edit-partials/content.php:22
+msgid "Display a Supafolio collection"
+msgstr "Dangoswch gasgliad Superfolio"
+
+#: admin/views/add-edit-partials/content.php:27
+msgid "Search catalogue:"
+msgstr "Chwiliwch y catalog:"
+
+#: admin/views/add-edit-partials/content.php:31
+msgid "Enter ISBN(s):"
+msgstr "Mewnbynnwch ISBN (au)"
+
+#: admin/views/add-edit-partials/content.php:33
+msgid "Add ISBN(s)"
+msgstr "Ychwanegwch ISBN (au)"
+
+#: admin/views/add-edit-partials/content.php:45
+msgid "Select a collection:"
+msgstr "Dewisiwch y casgliad:"
+
+#: admin/views/add-edit-partials/content.php:47
+msgid "Edit collection"
+msgstr "Addasu casgliad"
+
+#: admin/views/add-edit-partials/elements.php:13
+msgid "Select which fields to display"
+msgstr "Dewisiwch feysydd sydd yn dangos"
+
+#: admin/views/add-edit-partials/elements.php:24
+#: admin/views/add-edit-partials/elements.php:524
+msgid "Search filters"
+msgstr "Chwiliwch drwy hildwyr"
+
+#: admin/views/add-edit-partials/elements.php:28
+msgid "Filters"
+msgstr "Hildwyr"
+
+#: admin/views/add-edit-partials/elements.php:31
+#: admin/views/add-edit-partials/elements.php:314
+#: admin/views/add-edit-partials/elements.php:535
+msgid "Format"
+msgstr "Fformat"
+
+#: admin/views/add-edit-partials/elements.php:34
+#: admin/views/add-edit-partials/elements.php:384
+#: admin/views/add-edit-partials/elements.php:391
+#: admin/views/add-edit-partials/elements.php:394
+#: admin/views/add-edit-partials/elements.php:397
+#: admin/views/add-edit-partials/elements.php:400
+#: admin/views/add-edit-partials/elements.php:403
+#: admin/views/add-edit-partials/elements.php:406
+#: admin/views/add-edit-partials/elements.php:539
+msgid "Price"
+msgstr "Pris"
+
+#: admin/views/add-edit-partials/elements.php:37 locale.php:18
+msgid "Collection"
+msgstr "Casgliad"
+
+#: admin/views/add-edit-partials/elements.php:40
+msgid "Guides"
+msgstr "Canllawiau"
+
+#: admin/views/add-edit-partials/elements.php:43
+#: admin/views/add-edit-partials/elements.php:414
+#: admin/views/add-edit-partials/elements.php:540 locale.php:19
+msgid "Series"
+msgstr "Cyfresi"
+
+#: admin/views/add-edit-partials/elements.php:46
+#: admin/views/add-edit-partials/elements.php:415
+#: admin/views/add-edit-partials/elements.php:541 locale.php:20
+msgid "Imprint"
+msgstr "Gwasgnod"
+
+#: admin/views/add-edit-partials/elements.php:49 locale.php:21
+msgid "Award"
+msgstr "Dyfarnu"
+
+#: admin/views/add-edit-partials/elements.php:52 locale.php:22
+msgid "Category"
+msgstr "Categori"
+
+#: admin/views/add-edit-partials/elements.php:55
+#: admin/views/add-edit-partials/elements.php:416
+#: admin/views/add-edit-partials/elements.php:542 locale.php:23
+msgid "Publisher"
+msgstr "Cyhoeddwr"
+
+#: admin/views/add-edit-partials/elements.php:61
+msgid "Age"
+msgstr "Oed"
+
+#: admin/views/add-edit-partials/elements.php:69
+#: admin/views/add-edit-partials/elements.php:525
+msgid "Search sort by"
+msgstr "Chwilio fesul"
+
+#: admin/views/add-edit-partials/elements.php:74
+msgid "Sort by"
+msgstr "Sortio fesul"
+
+#: admin/views/add-edit-partials/elements.php:84 includes/book.php:35
+msgid "Relevance"
+msgstr "Perthnasedd"
+
+#: admin/views/add-edit-partials/elements.php:105 includes/book.php:42
+msgid "Author - A to Z"
+msgstr "Awdur - A i Z"
+
+#: admin/views/add-edit-partials/elements.php:108 includes/book.php:43
+msgid "Author - Z to A"
+msgstr "Awdur - Z i A"
+
+#: admin/views/add-edit-partials/elements.php:117
+#: admin/views/add-edit-partials/elements.php:526
+msgid "Search per page"
+msgstr "Chwilio fesul tudalen"
+
+#: admin/views/add-edit-partials/elements.php:131
+msgid "Per page number"
+msgstr "Yn ôl rhif tudalen"
+
+#: admin/views/add-edit-partials/elements.php:153
+msgid "Per page default"
+msgstr "Yn ôl tudalen yn ddiofyn"
+
+#: admin/views/add-edit-partials/elements.php:157
+msgid "No default set"
+msgstr "Dim canllawiau diofyn wedi eu gosod"
+
+#: admin/views/add-edit-partials/elements.php:170
+#: admin/views/add-edit-partials/elements.php:527
+msgid "Search pagination"
+msgstr "Chwilio tudaleniad"
+
+#: admin/views/add-edit-partials/elements.php:174
+msgid "Hide when 1 page of results"
+msgstr "Cuddio pan fydd 1 tudalen o ganlyniadau"
+
+#: admin/views/add-edit-partials/elements.php:190
+#: admin/views/add-edit-partials/elements.php:528
+msgid "Pagination message"
+msgstr "Neges tudalen"
+
+#: admin/views/add-edit-partials/elements.php:196
+#: admin/views/add-edit-partials/elements.php:227
+msgid "Text template"
+msgstr "Templed testun"
+
+#: admin/views/add-edit-partials/elements.php:221
+#: admin/views/add-edit-partials/elements.php:529
+msgid "Search term message"
+msgstr "Chwilio neges term"
+
+#: admin/views/add-edit-partials/elements.php:251
+#: admin/views/add-edit-partials/elements.php:530
+msgid "Book cover"
+msgstr "Clawr llyfr"
+
+#: admin/views/add-edit-partials/elements.php:255
+msgid "Book cover link"
+msgstr "Linc clawr llyfr"
+
+#: admin/views/add-edit-partials/elements.php:266
+#: admin/views/add-edit-partials/elements.php:296
+msgid "Open link in new tab"
+msgstr "Agor linc mewn tab newydd"
+
+#: admin/views/add-edit-partials/elements.php:285
+msgid "Title link"
+msgstr "Linc teitl"
+
+#: admin/views/add-edit-partials/elements.php:311
+#: admin/views/add-edit-partials/elements.php:532
+msgid "Subtitle"
+msgstr "Is-deitl"
+
+#: admin/views/add-edit-partials/elements.php:312
+#: admin/views/add-edit-partials/elements.php:533
+msgid "Author name"
+msgstr "Enw Awdur"
+
+#: admin/views/add-edit-partials/elements.php:313
+#: admin/views/add-edit-partials/elements.php:534
+msgid "Author bio"
+msgstr "Cefndir Awdur"
+
+#: admin/views/add-edit-partials/elements.php:317
+#: admin/views/add-edit-partials/elements.php:536
+msgid "Publication date"
+msgstr "Dyddiad cyhoeddi"
+
+#: admin/views/add-edit-partials/elements.php:321
+#: admin/views/add-edit-partials/elements.php:463
+msgid "Date formats"
+msgstr "Fformat dyddiadau"
+
+#: admin/views/add-edit-partials/elements.php:327
+#: admin/views/add-edit-partials/elements.php:330
+#: admin/views/add-edit-partials/elements.php:348
+#: admin/views/add-edit-partials/elements.php:351
+#: admin/views/add-edit-partials/elements.php:354
+#: admin/views/add-edit-partials/elements.php:357
+#: admin/views/add-edit-partials/elements.php:369
+#: admin/views/add-edit-partials/elements.php:469
+#: admin/views/add-edit-partials/elements.php:472
+#: admin/views/add-edit-partials/elements.php:490
+#: admin/views/add-edit-partials/elements.php:493
+#: admin/views/add-edit-partials/elements.php:496
+#: admin/views/add-edit-partials/elements.php:499
+#: admin/views/add-edit-partials/elements.php:511
+msgid "January"
+msgstr "Ionawr"
+
+#: admin/views/add-edit-partials/elements.php:360
+#: admin/views/add-edit-partials/elements.php:502
+#: admin/views/add-edit-partials/elements.php:505
+#: admin/views/add-edit-partials/elements.php:508
+msgid "Jan"
+msgstr "Ion"
+
+#: admin/views/add-edit-partials/elements.php:363
+#: admin/views/add-edit-partials/elements.php:366
+#: admin/views/add-edit-partials/elements.php:505
+#: admin/views/add-edit-partials/elements.php:508
+msgid "Monday"
+msgstr "Dydd Llun"
+
+#: admin/views/add-edit-partials/elements.php:388
+msgid "Price locale"
+msgstr "Pris lleol"
+
+#: admin/views/add-edit-partials/elements.php:417
+#: admin/views/add-edit-partials/elements.php:543
+msgid "ISBN-13"
+msgstr "ISBN-13"
+
+#: admin/views/add-edit-partials/elements.php:418
+#: admin/views/add-edit-partials/elements.php:544
+msgid "Trim size"
+msgstr "Maint trim"
+
+#: admin/views/add-edit-partials/elements.php:419
+#: admin/views/add-edit-partials/elements.php:545
+msgid "Weight"
+msgstr "Pwysau"
+
+#: admin/views/add-edit-partials/elements.php:420
+#: admin/views/add-edit-partials/elements.php:546
+msgid "Awards"
+msgstr "Gwobrau"
+
+#: admin/views/add-edit-partials/elements.php:421
+#: admin/views/add-edit-partials/elements.php:547
+msgid "Reviews"
+msgstr "Adolygiadau"
+
+#: admin/views/add-edit-partials/elements.php:422
+#: admin/views/add-edit-partials/elements.php:548 locale.php:29
+msgid "Pages"
+msgstr "Tudalennau"
+
+#: admin/views/add-edit-partials/elements.php:427
+#: admin/views/add-edit-partials/elements.php:431
+#: admin/views/add-edit-partials/elements.php:549
+msgid "Retailers"
+msgstr "Gwerthwyr"
+
+#: admin/views/add-edit-partials/elements.php:435
+msgid "Retailer"
+msgstr "Gwerthwr"
+
+#: admin/views/add-edit-partials/elements.php:459
+#: admin/views/add-edit-partials/elements.php:550
+msgid "Sales date"
+msgstr "Dyddiad gwerthiant"
+
+#: admin/views/add-edit-partials/elements.php:537
+msgid "Summary"
+msgstr "Crynodeb"
+
+#: admin/views/add-edit-partials/elements.php:538
+msgid "Description"
+msgstr "Disgrifiad"
+
+#: admin/views/add-edit-partials/restrictions.php:11
+msgid "Restrict search results by the selected parameters:"
+msgstr "Cyfyngu canlyniadau chwilio yn ôl y paramedrau a ddewiswyd:"
+
+#: admin/views/add-edit-partials/restrictions.php:21
+msgid "Imprint:"
+msgstr "Gwasgnod:"
+
+#: admin/views/add-edit-partials/restrictions.php:34
+msgid "Publisher:"
+msgstr "Cyhoeddwr:"
+
+#: admin/views/add-edit-partials/step1.php:14
+msgid "Module title"
+msgstr "Teitl y modiwl"
+
+#: admin/views/add-edit-partials/step1.php:18
+msgid "Choose a module type"
+msgstr "Dewiswch fath o fodiwl"
+
+#: admin/views/add-edit-partials/step1.php:50
+msgid "Next"
+msgstr "Nesaf"
+
+#: admin/views/add-edit-partials/step2.php:9
+msgid "Content"
+msgstr "Cynnwys"
+
+#: admin/views/add-edit-partials/step2.php:12
+msgid "Elements"
+msgstr "Elfennau"
+
+#: admin/views/add-edit-partials/step2.php:15
+msgid "Arrangement"
+msgstr "Trefniant"
+
+#: admin/views/add-edit-partials/step2.php:18
+msgid "Restrictions"
+msgstr "Cyfyngiadau"
+
+#: admin/views/add-edit-partials/step2.php:27 admin/views/settings.php:290
+msgid "Save Changes"
+msgstr "Arbed Newidiadau"
+
+#: admin/views/add-module-shortcode-button.php:2
+#: admin/views/add-module-shortcode-panel.php:3
+msgid "Add Supafolio Module"
+msgstr "Ychwanegu modiwl Supafolio"
+
+#: admin/views/add-module-shortcode-panel.php:4
+msgid "Add a Supafolio module to your post."
+msgstr "Ychwanegu modiwl Supafolio i’r post."
+
+#: admin/views/add-module-shortcode-panel.php:9
+msgid "None"
+msgstr "Dim"
+
+#: admin/views/add-module-shortcode-panel.php:18
+msgid "Insert Supafolio module"
+msgstr "Mewnosodwch fodiwl Supafolio"
+
+#: admin/views/add-module-shortcode-panel.php:21
+msgid "Could not find any Supafolio modules to add to this post."
+msgstr ""
+"Methu dod o hyd i unrhyw fodiwlau Supafolio i’w hychwanegu at y postiad hwn."
+
+#: admin/views/add-module-shortcode-panel.php:22
+msgid "Please add and configure new Supafolio module first."
+msgstr "Ychwanegwch a ffurfweddwch fodiwl Supafolio newydd yn gyntaf."
+
+#: admin/views/settings-partials/book-url.php:11
+msgid "Book page URL"
+msgstr "Tudalen URL y llyfr"
+
+#: admin/views/settings-partials/book-url.php:16
+msgid "Book WordPress page or external url:"
+msgstr "Tudalen WordPress neu url allanol y llyfr:"
+
+#: admin/views/settings-partials/book-url.php:24
+msgid "Book url pattern:"
+msgstr "Patrwm url y llyfr:"
+
+#: admin/views/settings-partials/book-url.php:40
+msgid "Book url preview:"
+msgstr "Rhagolwg url y llyfr:"
+
+#: admin/views/settings-partials/retailer-link.php:14
+msgid "New Retailer Link"
+msgstr "Dolen Manwerthwr Newydd"
+
+#: admin/views/settings-partials/retailer-link.php:19
+msgid "Retailer Name:"
+msgstr "Enw Manwerthwr:"
+
+#: admin/views/settings-partials/retailer-link.php:24
+msgid "Retailer Link Image:"
+msgstr "Delwedd Cyswllt Manwerthwr:"
+
+#: admin/views/settings-partials/retailer-link.php:39
+msgid "Retailer Link preview:"
+msgstr "Rhagolwg Cyswllt Manwerthwr:"
+
+#: admin/views/settings-partials/retailer-link.php:48
+msgid "Retailer Link Formats:"
+msgstr "Fformatau Cyswllt Manwerthwr:"
+
+#: admin/views/settings.php:13
+msgid "General"
+msgstr "Cyffredinol"
+
+#: admin/views/settings.php:14
+msgid "Book Page URLs"
+msgstr "Tudalennau URL y llyfr"
+
+#: admin/views/settings.php:15
+msgid "Retailer Links"
+msgstr "Cyswllt Manwerthwr"
+
+#: admin/views/settings.php:16
+msgid "Cache"
+msgstr "Cache"
+
+#: admin/views/settings.php:17
+msgid "SEO"
+msgstr "SEO"
+
+#: admin/views/settings.php:18
+msgid "Advanced"
+msgstr "Uwch"
+
+#: admin/views/settings.php:24
+msgid "API Key:"
+msgstr "Allwedd API:"
+
+#: admin/views/settings.php:28
+msgid "No books text (Optional):"
+msgstr "Dim gwybodaeth llyfr (opsiynol):"
+
+#: admin/views/settings.php:32
+msgid "Book not found text (Optional):"
+msgstr "Ni ellir dod o hyd i lyfr (opsiynol):"
+
+#: admin/views/settings.php:36
+msgid "Service URL (Optional):"
+msgstr "URL Gwasanaeth (opsiynol):"
+
+#: admin/views/settings.php:43
+msgid "Build book page urls"
+msgstr "Adeiladu urls tudalen llyfr"
+
+#: admin/views/settings.php:44
+msgid ""
+"Use the dropdowns below to show / hide your book page url settings.<br />---"
+"<br />Select the WordPress page containing your product details module from "
+"the dropdown then enter your URL pattern."
+msgstr ""
+"Defnyddiwch y dropdowns isod i ddangos / cuddio gosodiadau url eich tudalen "
+"lyfr. <br /> — <br /> Dewiswch y dudalen WordPress sy’n cynnwys modiwl "
+"manylion eich cynnyrch o’r gwymplen yna nodwch eich patrwm URL."
+
+#: admin/views/settings.php:58
+msgid "Retailer links"
+msgstr "Dolenni manwerthwr"
+
+#: admin/views/settings.php:59
+msgid ""
+"Use the dropdowns below to show / hide your retailer links settings.<br />---"
+"<br />Enter a retailer name and enter a URL pattern."
+msgstr ""
+"Defnyddiwch y dropdowns isod i ddangos / cuddio gosodiadau dolenni eich "
+"manwerthwr. <br /> — <br /> Rhowch enw manwerthwr a nodi patrwm URL."
+
+#: admin/views/settings.php:70
+msgid "+ Add New"
+msgstr "+ Adio newydd"
+
+#: admin/views/settings.php:78
+#, php-format
+msgid ""
+"Each unique service call is currently being cached by default for %d hours."
+msgstr ""
+"Ar hyn o bryd mae pob galwad gwasanaeth unigryw yn cael ei storfa yn ddiofyn "
+"am %d oriau."
+
+#: admin/views/settings.php:79
+msgid "Click the 'clear cache' button below to instantly clear this cache."
+msgstr "Cliciwch y botwm ‘storfa glir’ isod i glirio’r storfa hon ar unwaith."
+
+#: admin/views/settings.php:86
+msgid "Clear Cache"
+msgstr "Clirio’r cache"
+
+#: admin/views/settings.php:99
+msgid ""
+"You can override the duration of the cache for each type of service call "
+"below:"
+msgstr ""
+"Gallwch ddiystyru hyd y cache ar gyfer pob math o alwad gwasanaeth isod:"
+
+#: admin/views/settings.php:104
+msgid "Product Details Cache Lifetime:"
+msgstr "Manylion y Cynnyrch Oes Cache:"
+
+#: admin/views/settings.php:109 admin/views/settings.php:112
+#: admin/views/settings.php:115 admin/views/settings.php:118
+#: admin/views/settings.php:121 admin/views/settings.php:124
+#: admin/views/settings.php:127 admin/views/settings.php:138
+#: admin/views/settings.php:141 admin/views/settings.php:144
+#: admin/views/settings.php:147 admin/views/settings.php:150
+#: admin/views/settings.php:153 admin/views/settings.php:156
+#: admin/views/settings.php:167 admin/views/settings.php:170
+#: admin/views/settings.php:173 admin/views/settings.php:176
+#: admin/views/settings.php:179 admin/views/settings.php:182
+#: admin/views/settings.php:185
+msgid "hours"
+msgstr "oriau"
+
+#: admin/views/settings.php:133
+msgid "Search Results Cache Lifetime:"
+msgstr "Chwiliwch am ganlyniadau Oes Cache:"
+
+#: admin/views/settings.php:162
+msgid "ISBN Lookups Cache Lifetime:"
+msgstr "Edrych am ISBN Oes Cache:"
+
+#: admin/views/settings.php:192
+msgid "Please enter the relevant SEO settings"
+msgstr "Plis gosodwch yr SEO perthnasol"
+
+#: admin/views/settings.php:204
+msgid "Override SEO:"
+msgstr "Diystyru SEO:"
+
+#: admin/views/settings.php:217
+msgid "Title:"
+msgstr "Teitl:"
+
+#: admin/views/settings.php:224
+msgid "Meta description:"
+msgstr "Disgrifiad Meta:"
+
+#: admin/views/settings.php:231
+msgid "Canonical:"
+msgstr "Canonaidd:"
+
+#: admin/views/settings.php:243
+msgid "Primary Format Canonical:"
+msgstr ""
+
+#: admin/views/settings.php:256
+msgid ""
+"Please note: in order to get the Facebook and Twitter images to show a "
+"book's cover your must set a default Facebook image in Yoast"
+msgstr ""
+"Sylwch: er mwyn cael y delweddau Facebook a Twitter i ddangos clawr llyfr, "
+"rhaid i chi osod delwedd Facebook ddiofyn yn Yoast"
+
+#: admin/views/settings.php:256
+msgid "here"
+msgstr "yma"
+
+#: admin/views/settings.php:265
+msgid ""
+"If you would like to enable AngularJS support for your site, turn on the "
+"option below."
+msgstr ""
+"Os hoffech chi alluogi cefnogaeth AngularJS i’ch gwefan, trowch yr opsiwn "
+"isod ymlaen."
+
+#: admin/views/settings.php:267
+#, php-format
+msgid ""
+"You will need to make sure that you add %s as a dependency of you AngularJS "
+"app as the code below shows:"
+msgstr ""
+"Bydd angen i chi sicrhau eich bod yn ychwanegu  %s fel dibyniaeth ar eich "
+"app AngularJS fel y mae’r cod isod yn ei ddangos:"
+
+#: admin/views/settings.php:278
+msgid "Enable AngularJS support:"
+msgstr "Galluogi cefnogaeth AngularJS:"
+
+#: includes/book.php:1009
+msgid " Page"
+msgstr " Tudalen"
+
+#: includes/book.php:1012
+msgid " Pages"
+msgstr " Tudalennau"
+
+#: includes/functions.php:543
+msgid "Custom template file not found. File: "
+msgstr ""
+
+#: includes/widget.php:205
+#, php-format
+msgid ""
+"<code>%1$s</code> property of a <code>SupaPress_Widget</code> object is "
+"<strong>no longer accessible</strong>. Use <code>%2$s</code> method instead."
+msgstr ""
+
+#: locale.php:17
+msgid "Prices"
+msgstr "Prisiau"
+
+#: locale.php:25
+msgid "Clear all filters"
+msgstr "Clirio’r"
+
+#: locale.php:26
+msgid "Show more"
+msgstr "Dangos mwy"
+
+#: locale.php:27
+msgid "Show less"
+msgstr "Dangos llai"
+
+#: locale.php:28
+msgid "Page"
+msgstr "Tudalen"
+
+#: locale.php:30
+msgid "Under $2"
+msgstr "O dan $2"
+
+#: locale.php:31
+msgid "Over $2"
+msgstr "Dros $2"
+
+#: locale.php:32
+msgid "Under £2"
+msgstr "O dan £2"
+
+#: locale.php:33
+msgid "Over £2"
+msgstr "Dros £2"
+
+#. Plugin Name of the plugin/theme
+msgid "Supafolio"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.supadu.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Quickly and easily connect your book metadata (ONIX) to your WordPress site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Supadü"
+msgstr ""
+
+#~ msgid "Hardcover"
+#~ msgstr "Clawr caled"
+
+#~ msgid "eBook"
+#~ msgstr "eLyfr"
+
+#~ msgid "Paperback"
+#~ msgstr "Clawr meddal"
+
+#~ msgid "Trade-only material"
+#~ msgstr "Deunydd masnach yn unig"
+
+#~ msgid "Board book"
+#~ msgstr "Llyfr bwrdd"
+
+#~ msgid "CD-Audio"
+#~ msgstr "CD-Sain"
+
+#~ msgid "Digital Audiobook"
+#~ msgstr "Llyfr sain digidol"
+
+#~ msgid "Leather / fine binding"
+#~ msgstr "Rhwymo lledr / brau"
+
+#~ msgid "Miscellaneous print"
+#~ msgstr "Argraffu amrywiol"
+
+#~ msgid "Other point of sale"
+#~ msgstr "Pwynt gwerthu arall"

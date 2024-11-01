@@ -1,0 +1,893 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Supafolio\n"
+"POT-Creation-Date: 2020-09-14 16:26+0100\n"
+"PO-Revision-Date: 2020-09-14 16:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: supapress.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/includes/widget-list-table.php:13
+#: admin/views/add-edit-partials/elements.php:281
+#: admin/views/add-edit-partials/elements.php:531
+msgid "Title"
+msgstr ""
+
+#: admin/includes/widget-list-table.php:14
+#: admin/views/add-edit-partials/elements.php:58 locale.php:43
+msgid "Type"
+msgstr ""
+
+#: admin/includes/widget-list-table.php:15
+msgid "Shortcode"
+msgstr ""
+
+#: admin/includes/widget-list-table.php:16
+msgid "Author"
+msgstr ""
+
+#: admin/includes/widget-list-table.php:17
+msgid "Date"
+msgstr ""
+
+#: admin/includes/widget-list-table.php:103
+msgid "Edit"
+msgstr ""
+
+#: admin/includes/widget-list-table.php:109
+msgid "Duplicate"
+msgstr ""
+
+#: admin/includes/widget-list-table.php:110
+msgid "Delete"
+msgstr ""
+
+#: admin/includes/widget-list-table.php:204
+msgid "Search"
+msgstr ""
+
+#: admin/includes/widget-list-table.php:233
+#: admin/views/add-edit-partials/step1.php:23
+msgid "ISBN Lookup"
+msgstr ""
+
+#: admin/includes/widget-list-table.php:236
+#: admin/views/add-edit-partials/step1.php:32
+msgid "Search Results"
+msgstr ""
+
+#: admin/includes/widget-list-table.php:239
+#: admin/views/add-edit-partials/step1.php:41 admin/views/settings.php:200
+msgid "Product Details"
+msgstr ""
+
+#: admin/includes/widget-list-table.php:242
+msgid "Apply"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:10
+msgid "Select how you want to see your results:"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:13
+#: admin/views/add-edit-partials/content.php:8
+msgid "Select how you want to see your ISBN(s):"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:26
+msgid "Grid"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:38
+msgid "List"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:50
+msgid "Carousel"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:63
+msgid "Custom"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:70
+msgid "How many ISBN(s) per row:"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:85
+msgid "Display cover on the left or the right:"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:97
+msgid "How to order your ISBN(s):"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:99
+msgid "As entered / collection order"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:102
+#: admin/views/add-edit-partials/elements.php:87 includes/book.php:36
+msgid "Newest to Oldest"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:105
+#: admin/views/add-edit-partials/elements.php:90 includes/book.php:37
+msgid "Oldest to Newest"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:108
+#: admin/views/add-edit-partials/elements.php:93 includes/book.php:38
+msgid "Title - A to Z"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:111
+#: admin/views/add-edit-partials/elements.php:96 includes/book.php:39
+msgid "Title - Z to A"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:114
+#: admin/views/add-edit-partials/elements.php:99 includes/book.php:40
+msgid "Price - Low to High"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:117
+#: admin/views/add-edit-partials/elements.php:102 includes/book.php:41
+msgid "Price - High to Low"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:122
+msgid "Navigation dots:"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:134
+msgid "Navigation arrow:"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:147
+msgid "Left arrow:"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:159
+msgid "Right arrow:"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:171
+msgid "Number of books per row:"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:200
+msgid "Number of books to scroll by:"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:229
+msgid "Scroll speed (ms):"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:234
+msgid "Infinite scroll:"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:246
+msgid "Auto play:"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:259
+msgid "Auto play scroll delay (ms):"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:266
+msgid "Lazy load images:"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:280
+msgid "Lazy Load Placeholder:"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:297
+msgid "Custom template:"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:308
+msgid "Default"
+msgstr ""
+
+#: admin/views/add-edit-partials/arrangement.php:310
+msgid "Please select"
+msgstr ""
+
+#: admin/views/add-edit-partials/content.php:12
+msgid "Select where your ISBN(s) come from:"
+msgstr ""
+
+#: admin/views/add-edit-partials/content.php:16
+msgid "Manually enter single ISBN(s)"
+msgstr ""
+
+#: admin/views/add-edit-partials/content.php:19
+msgid "Manually enter bulk ISBN(s)"
+msgstr ""
+
+#: admin/views/add-edit-partials/content.php:22
+msgid "Display a Supafolio collection"
+msgstr ""
+
+#: admin/views/add-edit-partials/content.php:27
+msgid "Search catalogue:"
+msgstr ""
+
+#: admin/views/add-edit-partials/content.php:31
+msgid "Enter ISBN(s):"
+msgstr ""
+
+#: admin/views/add-edit-partials/content.php:33
+msgid "Add ISBN(s)"
+msgstr ""
+
+#: admin/views/add-edit-partials/content.php:45
+msgid "Select a collection:"
+msgstr ""
+
+#: admin/views/add-edit-partials/content.php:47
+msgid "Edit collection"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:13
+msgid "Select which fields to display"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:24
+#: admin/views/add-edit-partials/elements.php:524
+msgid "Search filters"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:28
+msgid "Filters"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:31
+#: admin/views/add-edit-partials/elements.php:314
+#: admin/views/add-edit-partials/elements.php:535
+msgid "Format"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:34
+#: admin/views/add-edit-partials/elements.php:384
+#: admin/views/add-edit-partials/elements.php:391
+#: admin/views/add-edit-partials/elements.php:394
+#: admin/views/add-edit-partials/elements.php:397
+#: admin/views/add-edit-partials/elements.php:400
+#: admin/views/add-edit-partials/elements.php:403
+#: admin/views/add-edit-partials/elements.php:406
+#: admin/views/add-edit-partials/elements.php:539
+msgid "Price"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:37 locale.php:37
+msgid "Collection"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:40
+msgid "Guides"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:43
+#: admin/views/add-edit-partials/elements.php:414
+#: admin/views/add-edit-partials/elements.php:540 locale.php:38
+msgid "Series"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:46
+#: admin/views/add-edit-partials/elements.php:415
+#: admin/views/add-edit-partials/elements.php:541 locale.php:39
+msgid "Imprint"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:49 locale.php:40
+msgid "Award"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:52 locale.php:41
+msgid "Category"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:55
+#: admin/views/add-edit-partials/elements.php:416
+#: admin/views/add-edit-partials/elements.php:542 locale.php:42
+msgid "Publisher"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:61
+msgid "Age"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:69
+#: admin/views/add-edit-partials/elements.php:525
+msgid "Search sort by"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:74
+msgid "Sort by"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:84 includes/book.php:35
+msgid "Relevance"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:105 includes/book.php:42
+msgid "Author - A to Z"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:108 includes/book.php:43
+msgid "Author - Z to A"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:117
+#: admin/views/add-edit-partials/elements.php:526
+msgid "Search per page"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:131
+msgid "Per page number"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:153
+msgid "Per page default"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:157
+msgid "No default set"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:170
+#: admin/views/add-edit-partials/elements.php:527
+msgid "Search pagination"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:174
+msgid "Hide when 1 page of results"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:190
+#: admin/views/add-edit-partials/elements.php:528
+msgid "Pagination message"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:196
+#: admin/views/add-edit-partials/elements.php:227
+msgid "Text template"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:221
+#: admin/views/add-edit-partials/elements.php:529
+msgid "Search term message"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:251
+#: admin/views/add-edit-partials/elements.php:530
+msgid "Book cover"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:255
+msgid "Book cover link"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:266
+#: admin/views/add-edit-partials/elements.php:296
+msgid "Open link in new tab"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:285
+msgid "Title link"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:311
+#: admin/views/add-edit-partials/elements.php:532
+msgid "Subtitle"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:312
+#: admin/views/add-edit-partials/elements.php:533
+msgid "Author name"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:313
+#: admin/views/add-edit-partials/elements.php:534
+msgid "Author bio"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:317
+#: admin/views/add-edit-partials/elements.php:536
+msgid "Publication date"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:321
+#: admin/views/add-edit-partials/elements.php:463
+msgid "Date formats"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:327
+#: admin/views/add-edit-partials/elements.php:330
+#: admin/views/add-edit-partials/elements.php:348
+#: admin/views/add-edit-partials/elements.php:351
+#: admin/views/add-edit-partials/elements.php:354
+#: admin/views/add-edit-partials/elements.php:357
+#: admin/views/add-edit-partials/elements.php:369
+#: admin/views/add-edit-partials/elements.php:469
+#: admin/views/add-edit-partials/elements.php:472
+#: admin/views/add-edit-partials/elements.php:490
+#: admin/views/add-edit-partials/elements.php:493
+#: admin/views/add-edit-partials/elements.php:496
+#: admin/views/add-edit-partials/elements.php:499
+#: admin/views/add-edit-partials/elements.php:511
+msgid "January"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:360
+#: admin/views/add-edit-partials/elements.php:502
+#: admin/views/add-edit-partials/elements.php:505
+#: admin/views/add-edit-partials/elements.php:508
+msgid "Jan"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:363
+#: admin/views/add-edit-partials/elements.php:366
+#: admin/views/add-edit-partials/elements.php:505
+#: admin/views/add-edit-partials/elements.php:508
+msgid "Monday"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:388
+msgid "Price locale"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:417
+#: admin/views/add-edit-partials/elements.php:543
+msgid "ISBN-13"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:418
+#: admin/views/add-edit-partials/elements.php:544
+msgid "Trim size"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:419
+#: admin/views/add-edit-partials/elements.php:545
+msgid "Weight"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:420
+#: admin/views/add-edit-partials/elements.php:546
+msgid "Awards"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:421
+#: admin/views/add-edit-partials/elements.php:547
+msgid "Reviews"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:422
+#: admin/views/add-edit-partials/elements.php:548
+msgid "Pages"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:427
+#: admin/views/add-edit-partials/elements.php:431
+#: admin/views/add-edit-partials/elements.php:549
+msgid "Retailers"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:435
+msgid "Retailer"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:459
+#: admin/views/add-edit-partials/elements.php:550
+msgid "Sales date"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:537
+msgid "Summary"
+msgstr ""
+
+#: admin/views/add-edit-partials/elements.php:538
+msgid "Description"
+msgstr ""
+
+#: admin/views/add-edit-partials/restrictions.php:11
+msgid "Restrict search results by the selected parameters:"
+msgstr ""
+
+#: admin/views/add-edit-partials/restrictions.php:21
+msgid "Imprint:"
+msgstr ""
+
+#: admin/views/add-edit-partials/restrictions.php:34
+msgid "Publisher:"
+msgstr ""
+
+#: admin/views/add-edit-partials/step1.php:14
+msgid "Module title"
+msgstr ""
+
+#: admin/views/add-edit-partials/step1.php:18
+msgid "Choose a module type"
+msgstr ""
+
+#: admin/views/add-edit-partials/step1.php:50
+msgid "Next"
+msgstr ""
+
+#: admin/views/add-edit-partials/step2.php:9
+msgid "Content"
+msgstr ""
+
+#: admin/views/add-edit-partials/step2.php:12
+msgid "Elements"
+msgstr ""
+
+#: admin/views/add-edit-partials/step2.php:15
+msgid "Arrangement"
+msgstr ""
+
+#: admin/views/add-edit-partials/step2.php:18
+msgid "Restrictions"
+msgstr ""
+
+#: admin/views/add-edit-partials/step2.php:27 admin/views/settings.php:276
+msgid "Save Changes"
+msgstr ""
+
+#: admin/views/add-module-shortcode-button.php:2
+#: admin/views/add-module-shortcode-panel.php:3
+msgid "Add Supafolio Module"
+msgstr ""
+
+#: admin/views/add-module-shortcode-panel.php:4
+msgid "Add a Supafolio module to your post."
+msgstr ""
+
+#: admin/views/add-module-shortcode-panel.php:9
+msgid "None"
+msgstr ""
+
+#: admin/views/add-module-shortcode-panel.php:18
+msgid "Insert Supafolio module"
+msgstr ""
+
+#: admin/views/add-module-shortcode-panel.php:21
+msgid "Could not find any Supafolio modules to add to this post."
+msgstr ""
+
+#: admin/views/add-module-shortcode-panel.php:22
+msgid "Please add and configure new Supafolio module first."
+msgstr ""
+
+#: admin/views/settings-partials/book-url.php:11
+msgid "Book page URL"
+msgstr ""
+
+#: admin/views/settings-partials/book-url.php:16
+msgid "Book WordPress page or external url:"
+msgstr ""
+
+#: admin/views/settings-partials/book-url.php:24
+msgid "Book url pattern:"
+msgstr ""
+
+#: admin/views/settings-partials/book-url.php:40
+msgid "Book url preview:"
+msgstr ""
+
+#: admin/views/settings-partials/retailer-link.php:14
+msgid "New Retailer Link"
+msgstr ""
+
+#: admin/views/settings-partials/retailer-link.php:19
+msgid "Retailer Name:"
+msgstr ""
+
+#: admin/views/settings-partials/retailer-link.php:24
+msgid "Retailer Link Image:"
+msgstr ""
+
+#: admin/views/settings-partials/retailer-link.php:39
+msgid "Retailer Link preview:"
+msgstr ""
+
+#: admin/views/settings-partials/retailer-link.php:48
+msgid "Retailer Link Formats:"
+msgstr ""
+
+#: admin/views/settings.php:13
+msgid "General"
+msgstr ""
+
+#: admin/views/settings.php:14
+msgid "Book Page URLs"
+msgstr ""
+
+#: admin/views/settings.php:15
+msgid "Retailer Links"
+msgstr ""
+
+#: admin/views/settings.php:16
+msgid "Cache"
+msgstr ""
+
+#: admin/views/settings.php:17
+msgid "SEO"
+msgstr ""
+
+#: admin/views/settings.php:18
+msgid "Advanced"
+msgstr ""
+
+#: admin/views/settings.php:24
+msgid "API Key:"
+msgstr ""
+
+#: admin/views/settings.php:28
+msgid "No books text (Optional):"
+msgstr ""
+
+#: admin/views/settings.php:32
+msgid "Book not found text (Optional):"
+msgstr ""
+
+#: admin/views/settings.php:36
+msgid "Service URL (Optional):"
+msgstr ""
+
+#: admin/views/settings.php:43
+msgid "Build book page urls"
+msgstr ""
+
+#: admin/views/settings.php:44
+msgid ""
+"Use the dropdowns below to show / hide your book page url settings.<br />---"
+"<br />Select the WordPress page containing your product details module from "
+"the dropdown then enter your URL pattern."
+msgstr ""
+
+#: admin/views/settings.php:58
+msgid "Retailer links"
+msgstr ""
+
+#: admin/views/settings.php:59
+msgid ""
+"Use the dropdowns below to show / hide your retailer links settings.<br />---"
+"<br />Enter a retailer name and enter a URL pattern."
+msgstr ""
+
+#: admin/views/settings.php:70
+msgid "+ Add New"
+msgstr ""
+
+#: admin/views/settings.php:78
+#, php-format
+msgid ""
+"Each unique service call is currently being cached by default for %d hours."
+msgstr ""
+
+#: admin/views/settings.php:79
+msgid "Click the 'clear cache' button below to instantly clear this cache."
+msgstr ""
+
+#: admin/views/settings.php:86
+msgid "Clear Cache"
+msgstr ""
+
+#: admin/views/settings.php:99
+msgid ""
+"You can override the duration of the cache for each type of service call "
+"below:"
+msgstr ""
+
+#: admin/views/settings.php:104
+msgid "Product Details Cache Lifetime:"
+msgstr ""
+
+#: admin/views/settings.php:109 admin/views/settings.php:112
+#: admin/views/settings.php:115 admin/views/settings.php:118
+#: admin/views/settings.php:121 admin/views/settings.php:124
+#: admin/views/settings.php:127 admin/views/settings.php:138
+#: admin/views/settings.php:141 admin/views/settings.php:144
+#: admin/views/settings.php:147 admin/views/settings.php:150
+#: admin/views/settings.php:153 admin/views/settings.php:156
+#: admin/views/settings.php:167 admin/views/settings.php:170
+#: admin/views/settings.php:173 admin/views/settings.php:176
+#: admin/views/settings.php:179 admin/views/settings.php:182
+#: admin/views/settings.php:185
+msgid "hours"
+msgstr ""
+
+#: admin/views/settings.php:133
+msgid "Search Results Cache Lifetime:"
+msgstr ""
+
+#: admin/views/settings.php:162
+msgid "ISBN Lookups Cache Lifetime:"
+msgstr ""
+
+#: admin/views/settings.php:192
+msgid "Please enter the relevant SEO settings"
+msgstr ""
+
+#: admin/views/settings.php:204
+msgid "Override SEO:"
+msgstr ""
+
+#: admin/views/settings.php:217
+msgid "Title:"
+msgstr ""
+
+#: admin/views/settings.php:224
+msgid "Meta description:"
+msgstr ""
+
+#: admin/views/settings.php:231
+msgid "Canonical:"
+msgstr ""
+
+#: admin/views/settings.php:242
+msgid ""
+"Please note: in order to get the Facebook and Twitter images to show a "
+"book's cover your must set a default Facebook image in Yoast"
+msgstr ""
+
+#: admin/views/settings.php:242
+msgid "here"
+msgstr ""
+
+#: admin/views/settings.php:251
+msgid ""
+"If you would like to enable AngularJS support for your site, turn on the "
+"option below."
+msgstr ""
+
+#: admin/views/settings.php:253
+#, php-format
+msgid ""
+"You will need to make sure that you add %s as a dependency of you AngularJS "
+"app as the code below shows:"
+msgstr ""
+
+#: admin/views/settings.php:264
+msgid "Enable AngularJS support:"
+msgstr ""
+
+#: includes/functions.php:543
+msgid "Custom template file not found. File: "
+msgstr ""
+
+#: includes/widget.php:205
+#, php-format
+msgid ""
+"<code>%1$s</code> property of a <code>SupaPress_Widget</code> object is "
+"<strong>no longer accessible</strong>. Use <code>%2$s</code> method instead."
+msgstr ""
+
+#: locale.php:17
+msgid "Hardcover"
+msgstr ""
+
+#: locale.php:18
+msgid "eBook"
+msgstr ""
+
+#: locale.php:19
+msgid "Paperback"
+msgstr ""
+
+#: locale.php:20
+msgid "Trade-only material"
+msgstr ""
+
+#: locale.php:21
+msgid "Board book"
+msgstr ""
+
+#: locale.php:22
+msgid "CD-Audio"
+msgstr ""
+
+#: locale.php:23
+msgid "CD-ROM"
+msgstr ""
+
+#: locale.php:24
+msgid "DVD video"
+msgstr ""
+
+#: locale.php:25
+msgid "DVD-ROM"
+msgstr ""
+
+#: locale.php:26
+msgid "Digital Audiobook"
+msgstr ""
+
+#: locale.php:27
+msgid "Leather / fine binding"
+msgstr ""
+
+#: locale.php:28
+msgid "Miscellaneous print"
+msgstr ""
+
+#: locale.php:29
+msgid "Other point of sale"
+msgstr ""
+
+#: locale.php:30
+msgid "Mixed media product"
+msgstr ""
+
+#: locale.php:31
+msgid "Novelty book"
+msgstr ""
+
+#: locale.php:32
+msgid "Other merchandise"
+msgstr ""
+
+#: locale.php:33
+msgid "Other printed item"
+msgstr ""
+
+#: locale.php:34
+msgid "Rag book"
+msgstr ""
+
+#: locale.php:35
+msgid "Spiral bound"
+msgstr ""
+
+#: locale.php:36
+msgid "Prices"
+msgstr ""
+
+#: locale.php:44
+msgid "Clear all filters"
+msgstr ""
+
+#: locale.php:45
+msgid "Show more"
+msgstr ""
+
+#: locale.php:46
+msgid "Show less"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Supafolio"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.supadu.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Quickly and easily connect your book metadata (ONIX) to your WordPress site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Supadü"
+msgstr ""

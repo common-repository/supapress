@@ -1,0 +1,1 @@
+{"version":3,"sources":["admin-overrides.scss"],"names":[],"mappings":"AAAA,6CACI,iCAAuC,CAC1C","file":"admin-overrides.min.css","sourcesContent":["a.toplevel_page_supapress.wp-menu-open::after {\n    border-right-color: #FFFFFF !important;\n}"]}
